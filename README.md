@@ -22,3 +22,9 @@ If you use `Hell` as the string that you want to encrypt and `0x20 0x20 0x20 0x2
 
 So you could use `gdb` to get your xored string.
 
+## What's next
+*Will I improve this code?*
+Probably not
+
+*Will I write other nasm program?*
+Absolutely yes
